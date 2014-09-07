@@ -1,0 +1,23 @@
+<resources>
+        <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_location_key" tranlate="false">location</string>
+    <string name="pref_location_title">Location</string>
+    <string name="pref_location_default">Atlanta, GA</string>
+
+    <string name="pref_units_key" tranlate="false">units</string>
+    <string name="pref_units_title">Units</string>
+    <string-array name="pref_units_titles">
+        <item>Fahrenheit (F)</item>
+        <item>Celsius (C)</item>
+    </string-array>
+    <string-array name="pref_units_values">
+        <item>F</item>
+        <item>C</item>
+    </string-array>
+    <string name="pref_units_default">F</string>
+</resources>
